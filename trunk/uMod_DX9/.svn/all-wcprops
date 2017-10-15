@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/40/trunk/uMod_DX9
+END
+uMod_IDirect3DDevice9.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/35/trunk/uMod_DX9/uMod_IDirect3DDevice9.h
+END
+uMod_IDirect3DTexture9.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3DTexture9.h
+END
+uMod_TextureServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_TextureServer.h
+END
+uMod_TextureClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_TextureClient.cpp
+END
+uMod_IDirect3D9Ex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/35/trunk/uMod_DX9/uMod_IDirect3D9Ex.cpp
+END
+makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/35/trunk/uMod_DX9/makefile.gcc
+END
+uMod_DX9_dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_DX9_dll.h
+END
+uMod_TextureFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_TextureFunction.cpp
+END
+uMod_IDirect3D9.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3D9.h
+END
+uMod_IDirect3DVolumeTexture9.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3DVolumeTexture9.h
+END
+uMod_ArrayHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_ArrayHandler.h
+END
+uMod_Defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/uMod_DX9/uMod_Defines.h
+END
+uMod_IDirect3DDevice9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/uMod_DX9/uMod_IDirect3DDevice9.cpp
+END
+uMod_IDirect3DTexture9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3DTexture9.cpp
+END
+uMod_IDirect3DDevice9Ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/35/trunk/uMod_DX9/uMod_IDirect3DDevice9Ex.h
+END
+uMod_TextureServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_TextureServer.cpp
+END
+uMod_IDirect3DCubeTexture9.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3DCubeTexture9.h
+END
+uMod_Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_Main.h
+END
+uMod_DX9_dll_HOOK_INJECTION.def
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_DX9_dll_HOOK_INJECTION.def
+END
+uMod_DX9_dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_DX9_dll.cpp
+END
+uMod_IDirect3D9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/35/trunk/uMod_DX9/uMod_IDirect3D9.cpp
+END
+uMod_TextureClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_TextureClient.h
+END
+uMod_IDirect3D9Ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3D9Ex.h
+END
+uMod_DX9_dll_DIRECT_INJECTION.def
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_DX9_dll_DIRECT_INJECTION.def
+END
+uMod_DX9_dll_NO_INJECTION.def
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_DX9_dll_NO_INJECTION.def
+END
+uMod_TextureFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_TextureFunction.h
+END
+uMod_ArrayHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_ArrayHandler.cpp
+END
+uMod_IDirect3DVolumeTexture9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3DVolumeTexture9.cpp
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/35/trunk/uMod_DX9/makefile.vc
+END
+uMod_IDirect3DDevice9Ex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3DDevice9Ex.cpp
+END
+uMod_IDirect3DCubeTexture9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/uMod_DX9/uMod_IDirect3DCubeTexture9.cpp
+END

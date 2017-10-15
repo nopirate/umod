@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/55/branches/uMod2/uMod_DX10
+END
+uMod_ID3D10Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Device.h
+END
+uMod_DX10_dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/55/branches/uMod2/uMod_DX10/uMod_DX10_dll.h
+END
+uMod_ID3D10Device1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Device1.cpp
+END
+uMod_ID3D10Device1.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Device1.h
+END
+uMod_ID3D10Texture1D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Texture1D.cpp
+END
+uMod_ID3D10Texture2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Texture2D.cpp
+END
+uMod_ID3D10Texture3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Texture3D.cpp
+END
+uMod_ID3D10Texture1D.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Texture1D.h
+END
+uMod_ID3D10Texture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Texture2D.h
+END
+uMod_TextureClient_DX10.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_TextureClient_DX10.h
+END
+uMod_ID3D10Texture3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Texture3D.h
+END
+uMod_IDXGISwapChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/55/branches/uMod2/uMod_DX10/uMod_IDXGISwapChain.cpp
+END
+uMod_ID3D10Device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_ID3D10Device.cpp
+END
+uMod_IDXGISwapChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/branches/uMod2/uMod_DX10/uMod_IDXGISwapChain.h
+END
+uMod_DX10_dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/55/branches/uMod2/uMod_DX10/uMod_DX10_dll.cpp
+END

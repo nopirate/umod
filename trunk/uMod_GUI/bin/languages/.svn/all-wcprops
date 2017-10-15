@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/trunk/uMod_GUI/bin/languages
+END
+uMod_LanguagePackU_Deutsch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/44/trunk/uMod_GUI/bin/languages/uMod_LanguagePackU_Deutsch.txt
+END
+Example_uMod_LanguagePack_English.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/22/trunk/uMod_GUI/bin/languages/Example_uMod_LanguagePack_English.txt
+END
+uMod_LanguagePackU_Russian.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/22/trunk/uMod_GUI/bin/languages/uMod_LanguagePackU_Russian.txt
+END
+uMod_LanguagePackU_French.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/44/trunk/uMod_GUI/bin/languages/uMod_LanguagePackU_French.txt
+END
+uMod_LanguagePack_Italian.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/44/trunk/uMod_GUI/bin/languages/uMod_LanguagePack_Italian.txt
+END
